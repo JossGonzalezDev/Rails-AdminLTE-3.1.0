@@ -1,4 +1,4 @@
-# README
+# IMPORTANTE
 
 Este proyecto fue creado para utilizar AdminLTE 3.1.0 en Ruby on Rails
 
